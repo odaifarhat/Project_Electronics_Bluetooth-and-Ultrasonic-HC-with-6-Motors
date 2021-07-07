@@ -1,6 +1,6 @@
 #include <Servo.h>
 
-// char inputByte; //bluooth
+// char inputByte; //Bluetooth
 Servo servo1,servo2,servo3,servo4,servo5,servo6;
 
 int trigPin = 9;
@@ -11,7 +11,7 @@ long duration;
  
 void setup() 
 {
- /*  Serial.begin(9600);//bluooth
+ /*  Serial.begin(9600);//Bluetooth
  pinMode(13,OUTPUT);
   */
  
@@ -27,7 +27,7 @@ void setup()
  
 void loop() {
   
- /* while(Serial.available()>0){   //bluooth
+ /* while(Serial.available()>0){   //Bluetooth
   inputByte= Serial.read();
   Serial.println(inputByte);
   if (inputByte=='Z'){
