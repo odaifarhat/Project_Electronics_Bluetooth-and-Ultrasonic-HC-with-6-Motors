@@ -1,0 +1,2 @@
+# Project_Electronics_Bluetooth-and-Ultrasonic-HC-with-6-Motors
+Moving the robot’s arms three coordinated movements to welcome when a person approaches a certain distance and a signal will be sent to the iPad to open the screen through Bluetooth, at 10 cm the arms will be moved up and at 9 cm the arms will be moved forward and at 8 cm the arms will be joined and at 5 cm The arms will return down to the origin.
