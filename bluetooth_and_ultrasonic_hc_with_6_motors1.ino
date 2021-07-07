@@ -1,3 +1,17 @@
+/*
+
+July 7/7/2021
+
+By Eng.Odai Farhat.
+
+Project_Electronics_Bluetooth-and-Ultrasonic-HC-with-6-Motors.
+
+Define a start for each engine.
+
+Programming three coordinated arm movements robot arms.
+
+*/
+
 #include <Servo.h>
 
 // char inputByte; //Bluetooth
