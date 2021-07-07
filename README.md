@@ -150,3 +150,12 @@ void ultra(){
   distance = duration*0.034/2;
   }
 
+
+# Simulation:
+
+https://www.tinkercad.com/things/lvt364H7Ipe
+
+
+/* END */
+
+
